@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ct-dent.lv/sitemap.xml
